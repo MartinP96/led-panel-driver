@@ -3,5 +3,6 @@ Simple project of a hex panel led strip driver. Led driver is based on Atmel Atm
 For communication with RTC module we are using I2C protocol.
 
 
-![image](https://user-images.githubusercontent.com/54812954/175128970-5f1fcdf1-9f26-4358-8770-7b8e81dbb1f4.png)
+![image](https://user-images.githubusercontent.com/54812954/175129060-aedfb308-6d03-44b4-a168-917d77c76d7a.png)
+
 
